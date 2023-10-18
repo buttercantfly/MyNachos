@@ -1,4 +1,6 @@
-# Nachos
+# MyNachos
+
+The repository is for OS course's projects, and the codes are imported from https://github.com/Xueyi-Chen-David/Nachos.git.
 
 This project was build successfully in VirtualBox 7.0, ubuntu 16.04 32bit.  
 Please flowing the instructions below.
